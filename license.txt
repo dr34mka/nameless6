@@ -1,0 +1,11 @@
+Model Information:
+* title:	Twisty Spiroknots
+* source:	https://sketchfab.com/3d-models/twisty-spiroknots-ef0195b4d7254783b5196f057a05f31c
+* author:	Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Twisty Spiroknots" (https://sketchfab.com/3d-models/twisty-spiroknots-ef0195b4d7254783b5196f057a05f31c) by Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
